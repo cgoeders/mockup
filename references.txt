@@ -1,0 +1,20 @@
+References for Project 1 --
+
+
+Udacity course: Intro to HTML/CSS
+
+Udacity style guide
+
+W3 Schools website: for tutorials, examples, shorthand, etc.
+
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/
+
+stack overflow
+
+Mozilla Developer Network: for CSS and Javascript
+
+Udacity forums / Piazza: office hours notes, student questions and peer and instructor answers
+
+http://www.slideshare.net/lorielue/10-design-layout-principles-guaranteed-to-improve
+
+Wikipedia
